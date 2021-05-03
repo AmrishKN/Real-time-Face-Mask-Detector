@@ -10,6 +10,7 @@ OBJECTIVE: Create a real-time face mask detector to check whether a person in we
 
 IN THE PROJECT:
 	Convolutional neural networks is used to train the model. For real-time detection, open-cv is used.
+	The xml file contains the configs for the camera to detect the face. It is also inbuilt in the tensorflow module in python.
 
 FUTURE SCOPE:
 	This model can be implemented in cameras in public places. Similar models can be deployed like, helmet detection and seat belt detection. 
